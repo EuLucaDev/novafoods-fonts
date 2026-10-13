@@ -53,14 +53,14 @@ dependencies = [
 ]
 
 [[package]]
-name = "craft-fonts"
+name = "novafoods-fonts"
 version = "0.1.0"
 
 [[package]]
-name = "craft-fonts-tests"
+name = "novafoods-fonts-tests"
 version = "0.1.0"
 dependencies = [
- "craft-fonts",
+ "novafoods-fonts",
  "sha2",
  "skrifa",
 ]

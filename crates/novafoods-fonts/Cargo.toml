@@ -1,6 +1,6 @@
 [package]
-name = "craft-fonts"
-description = "The Crafting Apps' shared font assets: the manifest, finding a craft-fonts checkout, and loading or embedding the fonts."
+name = "novafoods-fonts"
+description = "The Nova Foods Apps' shared font assets: the manifest, finding a novafoods-fonts checkout, and loading or embedding the fonts."
 version.workspace = true
 edition.workspace = true
 license.workspace = true
